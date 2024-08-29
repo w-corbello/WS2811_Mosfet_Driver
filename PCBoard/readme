@@ -1,0 +1,11 @@
+WS2811 Mosfet Driver
+
+I use ESYEDA (https://easyeda.com) for board sourcing and production (https://jlcpcb.com/).
+
+Schematic (can upload to modify board):SCH_WS2811_Mosfet_Driver_V1.1_2024-08-29.json
+
+PCBoard Files (can upload to modify board):PCB_PCB_WS2811_Mosfet_Driver_V1.0-copy_2024-08-29.json
+
+PCBoard Gerber (can use to order directly from JLCPCB): Gerber_WS2811_Mosfet_Driver_V1.1_PCB_WS2811_Mosfet_Driver_V1.0-copy_2024-08-29.zip
+
+Parts: BOM_WS2811_Mosfet_Driver_V1.1_2024-08-29.csv
