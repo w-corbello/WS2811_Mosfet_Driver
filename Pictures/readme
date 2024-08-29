@@ -1,2 +1,5 @@
 WS2811 Mosfet Driver
-Pictures of project
+Pictures of project v1.0
+
+The current project has been updated to v1.1 (Diode protection on power input; higher power input, 30AMP; rear traces for 12VDC or now bare so that you can add solder to them for higher amp use; 
+WS2811 output for daisy chaining)
